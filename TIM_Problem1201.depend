@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1455965238 source:c:\users\123\documents\codeblocksprojects\projects\tim_problem1201\func.c
+	"func.h"
+
+1455964867 c:\users\123\documents\codeblocksprojects\projects\tim_problem1201\func.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1455971046 source:c:\users\123\documents\codeblocksprojects\projects\tim_problem1201\main.c
+	"func.h"
+
